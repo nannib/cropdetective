@@ -93,7 +93,12 @@ Il programma richiede:
 
 Vedi `requirements.txt`.
 
+Se si hanno problemi col Tkinter, in Windows il pacchetto arriva con l'istallazione di Python (https://www.python.org/)
+
+
 ---
 
 # Come eseguire
 
+
+python cutdetective.py 
