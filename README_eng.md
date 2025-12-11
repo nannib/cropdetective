@@ -1,4 +1,4 @@
-![Screenshot](screenshot.jpg)
+![Screenshot](screenshot_eng.jpg)
 
 # Verify if a Crop Belongs to a Photo (GUI + PDF Report)
 
